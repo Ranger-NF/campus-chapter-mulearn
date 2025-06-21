@@ -1,7 +1,7 @@
 import styles from "./Footer.module.css";
 import { Instagram, X, Youtube, LinkedIn } from "./assets/svg";
-import { ULearnWhite } from "../../../assets/svg/svg";
-import data from "../../../../data.json";
+import { ULearnWhite } from "../../assets/svg/svg";
+import data from "/data.json";
 
 const Footer = () => {
   return (
@@ -46,7 +46,7 @@ const Footer = () => {
       <div className={styles.line}></div>
       <div className={styles.ptag}>
         {" "}
-        <p>Copyright © 2023. All Rights Reserved.</p>
+        <p>Copyright © 2025. All Rights Reserved.</p>
         <p>µLearn Foundation.</p>
       </div>
     </div>
