@@ -10,13 +10,40 @@
       "year": 2025,
       "eventDetails": [
         {
-          "month": "july",
+          "month": "Aug",
+          "date": "4",
+          "head": "Call For Class Coordinators",
+          "para": "The battlefield is ready. Now we need leaders.Step up as a Class Coordinator and lead your tribe to victory! ",
+          "img": "https://i.postimg.cc/JzpmKdzG/call-for-class-coordinators.jpg",
+          "reg": { 
+                "isOpen": true,
+                "link": "https://forms.gle/VnPs57vDemPwq3Kz8", 
+                "deadline": "Aug 4 at 3pm" 
+          }
+        
+      },
+        
+        {
+          "month": "Aug",
+          "date": "8",
+          "head": "KARMA-YUGAM 2.0",
+          "para": "A Classwise Karma Battle by μLearn GEC SKP.🚀 Every task you take, every skill you build, it all adds up. Compete not just for yourself, but for your entire class! Victory favors the relentless",
+          "img": "https://i.postimg.cc/ZnS4dPbH/karmayugam2.jpg",
+          "reg": { 
+                "isOpen": true,
+                "link": "https://forms.gle/2nJk2rui967L1CSGA", 
+                "deadline": "nill" 
+          }
+        
+      },
+        {
+          "month": "July",
           "date": "14",
           "head": " LET’S FIGMA!",
           "para": "Join our fun, beginner-friendly Figma workshop on July 14 & 15, from 4:30–6:00 PM in CS115! No experience needed — just bring your laptop and energy. Let’s design something awesome together!",
           "img": "https://i.postimg.cc/25V1qrX7/Lets-Figma.jpg",
           "reg": { 
-                "isOpen": true,
+                "isOpen": false,
                 "link": "https://forms.gle/qC2KDhSHbvToAKLi7 ", 
                 "deadline": "2025-06-15" 
           }
@@ -169,6 +196,21 @@
 
   "gallery": {
     "row1": [
+      {
+        "image": "https://i.postimg.cc/c459bQzJ/figma-1.png"
+      },
+      {
+        "image": "https://i.postimg.cc/fTm4mqyN/figma2.png"
+      },
+      {
+        "image": "https://i.postimg.cc/50rB43W7/figma3.png"
+      },
+      {
+        "image": "https://i.postimg.cc/T3cHRZ7t/figma4.png"
+      },
+      {
+        "image": "https://i.postimg.cc/6Qmcqwdf/figma5.png"
+      },
       {
         "image": "https://i.postimg.cc/7LQpm0tR/Whats-App-Image-2024-06-30-at-21-10-47-2337d1f1.jpg"
       },
